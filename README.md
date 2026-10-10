@@ -53,9 +53,9 @@ Requires internet access — the notebook downloads data directly from NCBI GEO.
 
 ## Author
 
-**Abdulmuhsen Almutairi**
-MSc Biochemistry — University of Jeddah, Saudi Arabia
-📧 m7sen.1223@gmail.com
+**Abdulmohsen Almutairi**
+MSc Biochemistry, University of Jeddah, Saudi Arabia
+abdulmohsen.khalef@gmail.com
 
 ## License
 
